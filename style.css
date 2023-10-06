@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #404040;
+  color: #FF5900;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #404040;
+  border: 2px solid #FF5900;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+button{
+  border-radius: 10px;
+  background-color: #FF5900;
+  color: black;
+}
